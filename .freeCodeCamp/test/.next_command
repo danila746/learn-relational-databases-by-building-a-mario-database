@@ -114,3 +114,14 @@ git clone https://github.com/danila746/FCC.git
 git push origin
 git status
 git add .
+git commit -m "does it works?"
+git status
+git push origin
+git push origin -u
+git push origin main
+git push origin master
+git config
+git push origin
+gh repo clone danila746/mynewproject
+git clone https://github.com/danila746/mynewproject.git
+git add .
