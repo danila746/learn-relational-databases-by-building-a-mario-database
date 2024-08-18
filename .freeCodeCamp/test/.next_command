@@ -134,3 +134,10 @@ git clone git@github.com:danila746/mynewproject.git
 nano
 ls --color=auto
 git add .
+git status
+git commit -m "tired"
+git status
+git push -u origin main
+git push -u origin master
+git push origin
+psql --username=freecodecamp --dbname=postgres
