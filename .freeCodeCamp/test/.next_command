@@ -125,3 +125,12 @@ git push origin
 gh repo clone danila746/mynewproject
 git clone https://github.com/danila746/mynewproject.git
 git add .
+git commit -m "OMG"
+git push origin
+git push origin main
+git push origin master
+git config --global
+git clone git@github.com:danila746/mynewproject.git
+nano
+ls --color=auto
+git add .
